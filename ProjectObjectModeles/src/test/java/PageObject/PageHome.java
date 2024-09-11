@@ -69,4 +69,7 @@ public class PageHome {
     public void cliquer_sur_bt_vieux_cart() {
     	bt_view_cart.click();
     }
+    public void cliquer_sur_bt_vieux_ct() {
+    	bt_view_cart.click();
+    }
 }
